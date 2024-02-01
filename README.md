@@ -1,2 +1,1 @@
-# precurse-henrry
-este es un repositorio de prueba 
+hola este es mi primer proyecto de prueba de gif habe
